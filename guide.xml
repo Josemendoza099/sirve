@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Azteca Uno">
+    <display-name lang="es">AZTECA UNO</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <display-name lang="es">LAS ESTRELLAS</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20200816001500 -0500" stop="20200816021500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200816021500 -0500" stop="20200816041500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200816041500 -0500" stop="20200816050000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200816050000 -0500" stop="20200816053000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20200816053000 -0500" stop="20200816061500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200816061500 -0500" stop="20200816080000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Azteca Uno</title>
+  </programme>
+  <programme start="20200816080000 -0500" stop="20200816090000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20200816090000 -0500" stop="20200816120000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+  </programme>
+  <programme start="20200816120000 -0500" stop="20200816130000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Deezer Live</title>
+  </programme>
+  <programme start="20200816130000 -0500" stop="20200816140000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20200816140000 -0500" stop="20200816150000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">En sus Batallas</title>
+  </programme>
+  <programme start="20200816150000 -0500" stop="20200816170000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Domingo Al Extremo</title>
+  </programme>
+  <programme start="20200816170000 -0500" stop="20200816200000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Mi pareja puede</title>
+  </programme>
+  <programme start="20200816200000 -0500" stop="20200816231500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Survivor México</title>
+  </programme>
+  <programme start="20200816231500 -0500" stop="20200817001500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">La resolana</title>
+  </programme>
+  <programme start="20200817231500 -0500" stop="20200818001500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">La resolana</title>
+  </programme>
+  <programme start="20200818001500 -0500" stop="20200818004500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20200818004500 -0500" stop="20200818024500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200818024500 -0500" stop="20200818044500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200818044500 -0500" stop="20200818050000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200818050000 -0500" stop="20200818053000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20200818053000 -0500" stop="20200818061500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200818061500 -0500" stop="20200818070000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Primera Línea</title>
+  </programme>
+  <programme start="20200818070000 -0500" stop="20200818080000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos AM</title>
+  </programme>
+  <programme start="20200818080000 -0500" stop="20200818090000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos Aquí entre nos</title>
+  </programme>
+  <programme start="20200818090000 -0500" stop="20200818110000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+  </programme>
+  <programme start="20200818110000 -0500" stop="20200818130000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+  </programme>
+  <programme start="20200818130000 -0500" stop="20200818140000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+  </programme>
+  <programme start="20200818140000 -0500" stop="20200818150000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20200818150000 -0500" stop="20200818163000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Ventaneando</title>
+  </programme>
+  <programme start="20200818163000 -0500" stop="20200818173000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Escape Perfecto</title>
+  </programme>
+  <programme start="20200818173000 -0500" stop="20200818193000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20200818193000 -0500" stop="20200818223000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">La voz</title>
+  </programme>
+  <programme start="20200818223000 -0500" stop="20200818231500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos de la noche</title>
+  </programme>
+  <programme start="20200818231500 -0500" stop="20200818233000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20200818233000 -0500" stop="20200819000000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20200819001500 -0500" stop="20200819010000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20200819010000 -0500" stop="20200819040000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200819040000 -0500" stop="20200819041500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Azteca Uno</title>
+  </programme>
+  <programme start="20200819041500 -0500" stop="20200819050000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200819193000 -0500" stop="20200819223000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Survivor México</title>
+  </programme>
+  <programme start="20200820053000 -0500" stop="20200820061500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200820061500 -0500" stop="20200820080000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Azteca Uno</title>
+  </programme>
+  <programme start="20200820080000 -0500" stop="20200820090000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20200820090000 -0500" stop="20200820110000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+  </programme>
+  <programme start="20200820110000 -0500" stop="20200820130000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+  </programme>
+  <programme start="20200820130000 -0500" stop="20200820140000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+  </programme>
+  <programme start="20200820140000 -0500" stop="20200820150000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos Sábado</title>
+  </programme>
+  <programme start="20200820150000 -0500" stop="20200820170000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20200820170000 -0500" stop="20200820200000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Mi pareja puede</title>
+  </programme>
+  <programme start="20200820200000 -0500" stop="20200820230000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Corazón grupero</title>
+  </programme>
+  <programme start="20200820230000 -0500" stop="20200821000000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">La resolana</title>
+  </programme>
+  <programme start="20200816003000 -0500" stop="20200816023000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200816023000 -0500" stop="20200816060000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200816060000 -0500" stop="20200816071500 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Papá soltero</title>
+  </programme>
+  <programme start="20200816071500 -0500" stop="20200816090000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">El Santo vs La Tigresa</title>
+  </programme>
+  <programme start="20200816090000 -0500" stop="20200816110000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">La niña de la mochila azul</title>
+  </programme>
+  <programme start="20200816110000 -0500" stop="20200816120000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Más Deporte En Vivo</title>
+  </programme>
+  <programme start="20200816120000 -0500" stop="20200816140000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Canela</title>
+  </programme>
+  <programme start="20200816140000 -0500" stop="20200816150000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Acción</title>
+  </programme>
+  <programme start="20200816150000 -0500" stop="20200816160000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20200816160000 -0500" stop="20200816183000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Sube y baja</title>
+  </programme>
+  <programme start="20200816183000 -0500" stop="20200816193000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">100 mexicanos dijieron</title>
+  </programme>
+  <programme start="20200816193000 -0500" stop="20200816210000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200816210000 -0500" stop="20200816230000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Minuto para ganar VIP</title>
+  </programme>
+  <programme start="20200816230000 -0500" stop="20200817000000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">La Jugada</title>
+  </programme>
+  <programme start="20200817000000 -0500" stop="20200817011000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Clío TV</title>
+  </programme>
+  <programme start="20200817011000 -0500" stop="20200817043000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200817043000 -0500" stop="20200817050000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200817050000 -0500" stop="20200817060000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200817060000 -0500" stop="20200817063000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Las noticias En Vivo</title>
+  </programme>
+  <programme start="20200817063000 -0500" stop="20200817080000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Despierta En Vivo</title>
+  </programme>
+  <programme start="20200817080000 -0500" stop="20200817090000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Al Aire con Paola Rojas En Vivo</title>
+  </programme>
+  <programme start="20200817090000 -0500" stop="20200817120000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Hoy En Vivo</title>
+  </programme>
+  <programme start="20200817120000 -0500" stop="20200817133000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Cuentamelo Ya! En Vivo</title>
+  </programme>
+  <programme start="20200817133000 -0500" stop="20200817143000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">El Juego de las Estrellas</title>
+  </programme>
+  <programme start="20200817143000 -0500" stop="20200817163000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Corona de Lágrimas</title>
+  </programme>
+  <programme start="20200817163000 -0500" stop="20200817173000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Soy tu dueña</title>
+  </programme>
+  <programme start="20200817173000 -0500" stop="20200817183000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20200817183000 -0500" stop="20200817193000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Esta historia me suena</title>
+  </programme>
+  <programme start="20200817193000 -0500" stop="20200817203000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20200817203000 -0500" stop="20200817213000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">La mexicana y el güero</title>
+  </programme>
+  <programme start="20200817213000 -0500" stop="20200817223000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">El dragón</title>
+  </programme>
+  <programme start="20200817223000 -0500" stop="20200817230000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">En Punto Denise Maerker En Vivo</title>
+  </programme>
+  <programme start="20200817230000 -0500" stop="20200817233000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">40 y 20</title>
+  </programme>
+  <programme start="20200817233000 -0500" stop="20200818000000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Contacto deportivo En Vivo</title>
+  </programme>
+  <programme start="20200818000000 -0500" stop="20200818010000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20200818010000 -0500" stop="20200818043000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200818050000 -0500" stop="20200818053000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200818053000 -0500" stop="20200818060000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Farmacias de similares</title>
+  </programme>
+  <programme start="20200818060000 -0500" stop="20200818063000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Las noticias En Vivo</title>
+  </programme>
+  <programme start="20200818063000 -0500" stop="20200818080000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Despierta En Vivo</title>
+  </programme>
+  <programme start="20200818080000 -0500" stop="20200818090000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Al Aire con Paola Rojas En Vivo</title>
+  </programme>
+  <programme start="20200818090000 -0500" stop="20200818120000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Hoy En Vivo</title>
+  </programme>
+  <programme start="20200818120000 -0500" stop="20200818133000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Cuentamelo Ya! En Vivo</title>
+  </programme>
+  <programme start="20200818133000 -0500" stop="20200818143000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Recuerda y Gana</title>
+  </programme>
+  <programme start="20200818143000 -0500" stop="20200818163000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Corona de Lágrimas</title>
+  </programme>
+  <programme start="20200818163000 -0500" stop="20200818173000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Soy tu dueña</title>
+  </programme>
+  <programme start="20200818173000 -0500" stop="20200818183000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20200818183000 -0500" stop="20200818193000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Esta historia me suena</title>
+  </programme>
+  <programme start="20200818193000 -0500" stop="20200818203000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20200818203000 -0500" stop="20200818213000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">La mexicana y el güero</title>
+  </programme>
+  <programme start="20200818213000 -0500" stop="20200818223000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">El dragón</title>
+  </programme>
+  <programme start="20200818223000 -0500" stop="20200818230000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">En Punto Denise Maerker En Vivo</title>
+  </programme>
+  <programme start="20200818230000 -0500" stop="20200818233000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Simón dice</title>
+  </programme>
+  <programme start="20200818233000 -0500" stop="20200819000000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Contacto deportivo En Vivo</title>
+  </programme>
+  <programme start="20200819133000 -0500" stop="20200819143000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Minuto para ganar VIP</title>
+  </programme>
+  <programme start="20200819230000 -0500" stop="20200820000000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Tercer Grado</title>
+  </programme>
+  <programme start="20200820230000 -0500" stop="20200820233000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Renta Congelada</title>
+  </programme>
+  <programme start="20200821230000 -0500" stop="20200821233000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">40 y 20</title>
+  </programme>
+  <programme start="20200822050000 -0500" stop="20200822060000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200822060000 -0500" stop="20200822070000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Papá soltero</title>
+  </programme>
+  <programme start="20200822070000 -0500" stop="20200822090000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Vals sin fin</title>
+  </programme>
+  <programme start="20200822090000 -0500" stop="20200822110000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Dios se lo pague</title>
+  </programme>
+  <programme start="20200822110000 -0500" stop="20200822130000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Cuentamelo Ya</title>
+  </programme>
+  <programme start="20200822130000 -0500" stop="20200822151500 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">A volar joven</title>
+  </programme>
+  <programme start="20200822151500 -0500" stop="20200822170000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Bailando por un sueño</title>
+  </programme>
+  <programme start="20200822170000 -0500" stop="20200822190000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Minuto para ganar VIP</title>
+  </programme>
+  <programme start="20200822190000 -0500" stop="20200822210000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Canal de las Estrellas</title>
+  </programme>
+  <programme start="20200822210000 -0500" stop="20200822230000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Sin miedo a la verdad</title>
+  </programme>
+  <programme start="20200822230000 -0500" stop="20200823000000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Más Noche</title>
+  </programme>
+</tv>
